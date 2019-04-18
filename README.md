@@ -11,3 +11,4 @@ Unit was kept 50 and dropout was 0.2
 for compiling optimizer was adam and loss function was mean_squeared_error. epoch was kept 100 and batch size was 32.
 ## Comparing the prediction with real value is shown bellow ##
 ![google_stock_price](https://user-images.githubusercontent.com/23102524/56345333-4f734100-61e1-11e9-8e69-2f429aa1a085.JPG)
+from figure the red curve indicates the real value and blue curve indicates predicted value
