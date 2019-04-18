@@ -2,7 +2,7 @@
 ## tools and library ##
 Jupyter Notebook, pandas, scikit learn, matplotlibray
 ## Dataset Description ##
-An open source dataset which was collected from kaggle website https://www.superdatascience.com/pages/deep-learning .
+An open source dataset which was collected from superdatascience website https://www.superdatascience.com/pages/deep-learning .
 
 ## Project Description ##
 this  Recurrent Neural Network with Long Short Term memory based project predict the google price which learn from previous openning price.
