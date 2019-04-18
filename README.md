@@ -1,6 +1,6 @@
 # google_stock_price_prediction #
 ## tools and library ##
-Jupyter Notebook, pandas, scikit learn, matplotlibray
+Jupyter Notebook, pandas, scikit learn, matplotlibrary
 ## Dataset Description ##
 An open source dataset which was collected from superdatascience website https://www.superdatascience.com/pages/deep-learning .
 
